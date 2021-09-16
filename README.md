@@ -1,2 +1,2 @@
-# -ASTRONAUT-S-DAILY-ROUTINE
-this game is about  ASTRONAUT’S DAILY ROUTINE and this my first visual studio coded game.
+# p5.play-boilerplate
+Boiler plate for p5.play
